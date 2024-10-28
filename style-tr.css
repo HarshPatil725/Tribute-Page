@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Sketch&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+body{
+    margin: 0;
+    background-color: rgb(252, 245, 235);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header{
+    font-family: "Merriweather", serif;
+}
+
+.container{
+    margin-top : 2rem ;
+    text-align: center;
+}
+
+.text-center{
+    text-align:center ;
+    margin-top: 0.75rem ;
+    margin-bottom: 0.5rem;
+}
+
+figure {
+    text-align: center;
+    background: rgb(200, 199, 199);
+    padding: 10px;
+    margin: 3rem 12rem;
+}
+
+#image {
+    display: block;
+    height: 25rem;
+    margin: 2rem auto 0 auto;
+  }
+
+.caption{
+    margin-top: 0.25rem ;
+    font-size: medium;
+}
+
+ul {
+    max-width: 750px;
+    margin: auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+
+li{
+    margin: 12px 0px;
+}
+
+.quote{
+    margin-top: 2rem;
+    font-family: "Merriweather", serif;
+}
+
+.namecap{
+    margin-top: 1.5rem;
+}
